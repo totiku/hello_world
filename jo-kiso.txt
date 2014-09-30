@@ -1,0 +1,19 @@
+HTMLの基本構造
+
+<html>
+<body>
+body要素の内容
+</body>
+</html>
+
+ＣＳＳの基本構造
+
+body , p {
+font-size : 10pt;文字の大きさ
+color : red;文字の色
+}
+
+HTMLとCSSの役割分担
+
+HTML:webページの基本構造を決める言語
+CSS:HTMLの装飾やレイアウトを定義するもの
