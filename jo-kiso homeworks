@@ -1,0 +1,18 @@
+document.write( add(a,b) );
+
+function add(a,b) {
+a + b ;
+}
+
+document.write( add(a,b) );
+
+function add(a,b) {
+a*b ;
+}
+
+function math() {
+var number = document.getelementById('num');
+var x = Number(num.value);
+var k = multi(2,x);
+add(k,3);
+}
